@@ -1,7 +1,7 @@
 # KVM
 开源 双/多 平台KVM切换器 
 
-## 视频：
+## 视频：https://www.bilibili.com/video/BV1iF41147d2/
 
 ## 原理图和PCB工程：https://oshwhub.com/hbk444/kvm_s
 
