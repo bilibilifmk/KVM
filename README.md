@@ -3,7 +3,7 @@
 
 ## 视频：
 
-## 原理图和PCB工程：
+## 原理图和PCB工程：https://oshwhub.com/hbk444/kvm_s
 
 
 ## 方案设计
